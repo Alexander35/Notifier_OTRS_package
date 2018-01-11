@@ -1,4 +1,4 @@
-#Notifier_OTRS_package
+# Notifier_OTRS_package
 
 This package gets info about the Tickets from the OTRS and send it to the Telegram_bot_Server
 
@@ -11,7 +11,7 @@ Previously, You should have installed and running Telegram_bot_Server.
 # 1. Install this package
 
 ```
-git clone https://github.com/Alexander35/Notitfier_OTRS_package.git
+git clone https://github.com/Alexander35/Notifier_OTRS_package.git
 ```
 ```
 pip install python-otrs
@@ -63,4 +63,4 @@ get all tickets with status open from few queues:
 
 Enjoy!
 
-for any quastions, please send me a E-mail : alexander.ivanov.35(AT).gmail.com 
+for any questions, please send me a E-mail : alexander.ivanov.35(AT).gmail.com 
